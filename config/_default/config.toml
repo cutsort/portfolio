@@ -1,4 +1,4 @@
-baseURL = "http://cutsort.github.io/portfolio/"
+baseURL = "https://cutsort.github.io/portfolio/"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "C-MOOR Student"
